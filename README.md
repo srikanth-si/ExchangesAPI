@@ -30,4 +30,20 @@ https://github.com/phemex/phemex-api-docs/blob/master/Public-Spot-API-en.md
 https://github.com/phemex/phemex-api-docs/blob/master/FIX-API-en.md
 
 
+Bitfinex 
+
+https://docs.bitfinex.com/docs/changelog
+
+
+Kucoin Futures
+
+https://docs.kucoin.com/#general
+
+https://docs.kucoin.com/futures/#general
+
+https://github.com/Kucoin/kucoin-api-docs/blob/master/CHANGELOG.md
+
+
+
+
 
