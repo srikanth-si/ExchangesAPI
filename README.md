@@ -44,9 +44,11 @@ https://docs.kucoin.com/futures/#general
 https://github.com/Kucoin/kucoin-api-docs/blob/master/CHANGELOG.md
 
 
-AAX
 
-https://www.aax.com/apidoc/index.html#change-log
+
+Bitmex  
+https://www.bitmex.com/app/apiChangelog
+
 
 
 
