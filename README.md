@@ -30,6 +30,4 @@ https://github.com/phemex/phemex-api-docs/blob/master/Public-Spot-API-en.md
 https://github.com/phemex/phemex-api-docs/blob/master/FIX-API-en.md
 
 
-Bitfinex 
 
-https://docs.bitfinex.com/docs/changelog
